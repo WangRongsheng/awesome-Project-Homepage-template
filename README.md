@@ -1,11 +1,18 @@
 # awesome-Paper-Homepage-template
 
-#### 1.Nerfies
+#### 0.Nerfies
 
 - Link: https://github.com/nerfies/nerfies.github.io
 - Preview: https://nerfies.github.io/
 - Screeshot:
 ![](assets/nerfies.png)
+
+#### 1.Academic Project Page (Support `poster`)
+
+- Link: https://github.com/eliahuhorwitz/Academic-project-page-template
+- Preview: https://eliahuhorwitz.github.io/Academic-project-page-template/
+- Screeshot:
+![](assets/adademic-project.png)
 
 #### 2.academic-project-page-template-vue
 
