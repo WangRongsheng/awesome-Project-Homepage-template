@@ -44,7 +44,14 @@
 
 #### 7.OLA-VLM Homepage
 
-- Link: 
+- Link: None
 - Preview: https://praeclarumjj3.github.io/ola_vlm/
 - Screeshot:
 ![](assets/ola-vlm.png)
+
+#### 8.Video-MME Homepage (Support `splash screen animation`)
+
+- Link: https://video-mme.github.io/
+- Preview: https://github.com/Video-MME/video-mme.github.io
+- Screeshot:
+![](assets/video-mme.png)
