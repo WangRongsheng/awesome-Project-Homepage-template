@@ -21,9 +21,16 @@
 - Screeshot:
 ![](assets/minigpt-4.png)
 
-#### 4.LLaVA Homepage (Support Gradio Demo)
+#### 4.LLaVA Homepage (Support `Gradio Demo`)
 
 - Link: https://github.com/LLaVA-VL/llava-vl.github.io
 - Preview: https://llava-vl.github.io/
 - Screeshot:
 ![](assets/llava.png)
+
+#### 5.BiomedParse Homepage (Supports `scrollable images` and `dynamic segmentation`)
+
+- Link: https://github.com/microsoft/BiomedParse/tree/project_page
+- Preview: https://microsoft.github.io/BiomedParse/
+- Screeshot:
+![](assets/biomedparse.png)
