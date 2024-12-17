@@ -14,9 +14,16 @@
 - Screeshot:
 ![](assets/395843745-0432d357-7bed-4c48-b846-80e4cfa56f12.png)
 
-#### 1.MiniGPT-4 Homepage (A simplified version of Nerfies)
+#### 3.MiniGPT-4 Homepage (A simplified version of Nerfies)
 
 - Link: https://github.com/minigpt-4/minigpt-4.github.io
 - Preview: https://minigpt-4.github.io/
 - Screeshot:
 ![](assets/minigpt-4.png)
+
+#### 4.LLaVA Homepage (Support Gradio Demo)
+
+- Link: https://github.com/LLaVA-VL/llava-vl.github.io
+- Preview: https://llava-vl.github.io/
+- Screeshot:
+![](assets/llava.png)
