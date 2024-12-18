@@ -42,7 +42,7 @@
 
 #### 4.LLaVA Homepage (Support `Gradio Demo`)
 
-- Link: https://github.com/LLaVA-VL/llava-vl.github.io
+- Link: https://github.com/LLaVA-VL/llava-vl.github.io ([other version](https://t2v-turbo.github.io/))
 - Preview: https://llava-vl.github.io/
 - Screeshot:
 ![](assets/llava.png)
