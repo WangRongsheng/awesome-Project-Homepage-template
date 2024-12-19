@@ -8,8 +8,12 @@
 
 - Link: https://github.com/nerfies/nerfies.github.io
 - Preview: https://nerfies.github.io/
-- Screeshot:
+<details>
+    <summary>Screeshot</summary>
+  
 ![](assets/nerfies.png)
+
+</details>
 
 ---
 
@@ -17,8 +21,12 @@
 
 - Link: https://github.com/eliahuhorwitz/Academic-project-page-template
 - Preview: https://eliahuhorwitz.github.io/Academic-project-page-template/
-- Screeshot:
+<details>
+    <summary>Screeshot</summary>
+  
 ![](assets/adademic-project.png)
+
+</details>
 
 ---
 
@@ -26,8 +34,12 @@
 
 - Link: https://github.com/JunyaoHu/academic-project-page-template-vue
 - Preview: https://junyaohu.github.io/academic-project-page-template-vue/
-- Screeshot:
+<details>
+    <summary>Screeshot</summary>
+  
 ![](assets/395843745-0432d357-7bed-4c48-b846-80e4cfa56f12.png)
+
+</details>
 
 ---
 
@@ -35,8 +47,12 @@
 
 - Link: https://github.com/minigpt-4/minigpt-4.github.io
 - Preview: https://minigpt-4.github.io/
-- Screeshot:
+<details>
+    <summary>Screeshot</summary>
+  
 ![](assets/minigpt-4.png)
+
+</details>
 
 ---
 
@@ -44,8 +60,12 @@
 
 - Link: https://github.com/LLaVA-VL/llava-vl.github.io ([other version](https://t2v-turbo.github.io/))
 - Preview: https://llava-vl.github.io/
-- Screeshot:
+<details>
+    <summary>Screeshot</summary>
+  
 ![](assets/llava.png)
+
+</details>
 
 ---
 
@@ -53,8 +73,12 @@
 
 - Link: https://github.com/microsoft/BiomedParse/tree/project_page
 - Preview: https://microsoft.github.io/BiomedParse/
-- Screeshot:
+<details>
+    <summary>Screeshot</summary>
+  
 ![](assets/biomedparse.png)
+
+</details>
 
 ---
 
@@ -62,8 +86,12 @@
 
 - Link: https://github.com/showlab/Show-1/tree/page
 - Preview: https://showlab.github.io/Show-1/
-- Screeshot:
+<details>
+    <summary>Screeshot</summary>
+  
 ![](assets/show-1.png)
+
+</details>
 
 ---
 
@@ -71,8 +99,12 @@
 
 - Link: None
 - Preview: https://praeclarumjj3.github.io/ola_vlm/
-- Screeshot:
+<details>
+    <summary>Screeshot</summary>
+  
 ![](assets/ola-vlm.png)
+
+</details>
 
 ---
 
@@ -80,8 +112,12 @@
 
 - Link: https://video-mme.github.io/
 - Preview: https://github.com/Video-MME/video-mme.github.io
-- Screeshot:
+<details>
+    <summary>Screeshot</summary>
+  
 ![](assets/video-mme.png)
+
+</details>
 
 ---
 
@@ -89,8 +125,12 @@
 
 - Link: https://github.com/SWivid/SWivid.github.io/tree/main/F5-TTS
 - Preview: https://swivid.github.io/F5-TTS/
-- Screeshot:
+<details>
+    <summary>Screeshot</summary>
+  
 ![](assets/f5-tts.png)
+
+</details>
 
 ---
 
@@ -98,7 +138,11 @@
 
 - Link: https://github.com/SWivid/SWivid.github.io/tree/main/F5-TTS
 - Preview: https://github.com/Genesis-Embodied-AI/genesis-embodied-ai.github.io
-- Screeshot:
+<details>
+    <summary>Screeshot</summary>
+  
 ![](assets/genesis.png)
+
+</details>
 
 ---
