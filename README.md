@@ -93,3 +93,12 @@
 ![](assets/f5-tts.png)
 
 ---
+
+#### 10.Genesis Homepage (Support `logo`)
+
+- Link: https://github.com/SWivid/SWivid.github.io/tree/main/F5-TTS
+- Preview: https://github.com/Genesis-Embodied-AI/genesis-embodied-ai.github.io
+- Screeshot:
+![](assets/genesis.png)
+
+---
