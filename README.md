@@ -136,8 +136,8 @@
 
 #### 10.Genesis Homepage (Support `logo`)
 
-- Link: https://github.com/SWivid/SWivid.github.io/tree/main/F5-TTS
-- Preview: https://github.com/Genesis-Embodied-AI/genesis-embodied-ai.github.io
+- Link: https://github.com/Genesis-Embodied-AI/genesis-embodied-ai.github.io
+- Preview: https://genesis-embodied-ai.github.io/
 <details>
     <summary>Screeshot</summary>
   
