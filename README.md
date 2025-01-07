@@ -146,3 +146,16 @@
 </details>
 
 ---
+
+#### 11.MLLM Projections Homepage
+
+- Link: https://github.com/claws-lab/projection-in-MLLMs
+- Preview: https://claws-lab.github.io/projection-in-MLLMs/
+<details>
+    <summary>Screeshot</summary>
+  
+![](assets/mllm-pro.png)
+
+</details>
+
+---
