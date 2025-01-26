@@ -172,3 +172,29 @@
 </details>
 
 ---
+
+#### 13.DecodingTrust Homepage
+
+- Link: https://github.com/DecodingTrust/decodingtrust.github.io
+- Preview: https://decodingtrust.github.io/
+<details>
+    <summary>Screeshot</summary>
+  
+![](assets/decodingtrust.png)
+
+</details>
+
+---
+
+#### 14.Magpie Homepage
+
+- Link: https://github.com/magpie-align/magpie-align.github.io
+- Preview: https://magpie-align.github.io/index.html
+<details>
+    <summary>Screeshot</summary>
+  
+![](assets/magpie.png)
+
+</details>
+
+---
