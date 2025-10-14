@@ -237,3 +237,17 @@
 </details>
 
 ---
+
+#### 18.Thinking with Camera Homepage
+
+- Link: https://github.com/KangLiao929/KangLiao929.github.io/tree/main/projects/puffin
+- Preview: https://kangliao929.github.io/projects/puffin/
+
+---
+
+#### 19.Academic Project Page Template
+
+- Link: https://github.com/eliahuhorwitz/Academic-project-page-template
+- Preview: https://eliahuhorwitz.github.io/Academic-project-page-template/
+
+---
