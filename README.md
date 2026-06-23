@@ -284,3 +284,8 @@
 39. https://xzf-thu.github.io/Mega-ASR/
 40. https://mobilegym.dev/
 41. https://dexjoco.github.io/
+42. https://allenai.github.io/WildDet3D/
+43. https://gameworld-project.github.io/
+44. https://h-embodvis.github.io/NUMINA/
+45. https://weianmao.github.io/tri-attention-project-page/
+46. https://void-model.github.io/
