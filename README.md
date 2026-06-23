@@ -277,3 +277,10 @@
 32. https://malamatenia.github.io/morphology4metrology-analysis/
 33. https://embodied-r.github.io/
 34. https://microsoft.github.io/LatentSpatialMemory/
+35. https://haowenhou.github.io/AdaCodec-Page/
+36. https://aigeeksgroup.github.io/PlatonicNav/
+37. https://statefulvisualencoders.github.io/
+38. https://research.nvidia.com/labs/lpr/locate-anything/
+39. https://xzf-thu.github.io/Mega-ASR/
+40. https://mobilegym.dev/
+41. https://dexjoco.github.io/
