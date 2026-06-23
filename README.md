@@ -271,3 +271,9 @@
 26. https://www.nlp.ecei.tohoku.ac.jp/projects/sumi/
 27. https://joyai-vl-video-future-academy-jd.github.io/JoyAI-VL-Interaction/
 28. https://amap-ml.github.io/DreamX_World/
+29. https://haoz19.github.io/world-tracing-page/
+30. https://orange-3dv-team.github.io/MoVerse/
+31. https://anttwo.github.io/surflo/
+32. https://malamatenia.github.io/morphology4metrology-analysis/
+33. https://embodied-r.github.io/
+34. https://microsoft.github.io/LatentSpatialMemory/
