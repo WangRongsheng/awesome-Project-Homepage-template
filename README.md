@@ -267,3 +267,7 @@
 22. https://chordedit.github.io/
 23. https://nvlabs.github.io/motionbricks/
 24. https://aigeeksgroup.github.io/DragMesh-2/
+25. https://siang1105.github.io/JanusMesh.github.io/
+26. https://www.nlp.ecei.tohoku.ac.jp/projects/sumi/
+27. https://joyai-vl-video-future-academy-jd.github.io/JoyAI-VL-Interaction/
+28. https://amap-ml.github.io/DreamX_World/
