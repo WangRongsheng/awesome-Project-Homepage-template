@@ -295,3 +295,4 @@
 50. https://dagroup-pku.github.io/PhysisForcing.github.io/
 51. https://nvidia-isaac.github.io/video_to_data/chord/
 52. https://end2end-diffusion.github.io/diffusion-bench/
+53. https://bytedance.github.io/safepyramid/
