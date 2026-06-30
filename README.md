@@ -298,3 +298,4 @@
 53. https://bytedance.github.io/safepyramid/
 54. https://nvlabs.github.io/neumatex/
 55. https://modality-forcing.github.io/
+56. https://facebookresearch.github.io/brain2qwerty/
