@@ -302,3 +302,4 @@
 57. https://inspatio.github.io/inspatio-world/
 58. https://orca-wm.github.io/
 59. https://research.nvidia.com/labs/toronto-ai/difix3d/
+60. https://vision-language-kinematics.github.io/
