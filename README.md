@@ -313,3 +313,4 @@
 68. https://meigen-ai.github.io/OPSD-V/
 69. https://job-bench.github.io/
 70. https://amap-cvlab.github.io/ABot-World/
+71. https://qinzheyang.github.io/LEVIRDet/
