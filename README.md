@@ -314,3 +314,4 @@
 69. https://job-bench.github.io/
 70. https://amap-cvlab.github.io/ABot-World/
 71. https://qinzheyang.github.io/LEVIRDet/
+72. https://zhao-yian.github.io/MiniWorld/
