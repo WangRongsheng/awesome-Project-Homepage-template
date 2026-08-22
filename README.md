@@ -316,3 +316,4 @@
 71. https://qinzheyang.github.io/LEVIRDet/
 72. https://zhao-yian.github.io/MiniWorld/
 73. https://microsoft.github.io/HealthAgentBench/
+74. https://swescience.github.io/
